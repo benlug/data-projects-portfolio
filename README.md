@@ -1,10 +1,8 @@
 # Data Project Portfolio
 
-Welcome to my data project portfolio. This is a summary of all projects related to skills in the Data Science and Data Engineering fields.
+Welcome to my data project portfolio. Here is a collection of my data projects with links to each repository.
 
 ## SQL
-
-Here is a collection of my data projects with links to each repository.
 
 | Project Name                          | Description                                                                                                                                                                                                                                                                                                  | Link                                                                                                                           |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
