@@ -14,6 +14,6 @@ Welcome to my data project portfolio. Here is a collection of my data projects w
 
 | Project Name           | Description                                                                                                                                              | Link                                                                                        |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Go Game Project        | This project involves the implementation and analysis of the classic board game Go using Python. Various strategies and game outcomes are explored.       | [Repo Link](https://github.com/benlug/project-go-game)                                      |
+| Go Game Project        | This project involves the implementation and analysis of the classic board game Go using Python.       | [Repo Link](https://github.com/benlug/project-go-game)                                      |
 
 
