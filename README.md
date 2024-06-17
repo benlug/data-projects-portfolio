@@ -20,7 +20,7 @@ Welcome to my project portfolio. Here is a collection of my projects related to 
 
 | Project Name           | Description                                                             | Link                                                                                        | Relevant Concepts                        |
 |------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
-| Go Game Project        | This project implements the classic board game Go in Python.            | [Link](https://github.com/benlug/project-go-game)                                      | Object-oriented programming, Python              |
+| Go Game Project        | This project implements the classic board game Go.            | [Link](https://github.com/benlug/project-go-game)                                      | Object-oriented programming, Python              |
 | Crypto Web Scraper     | This project contains scripts for scraping cryptocurrency data.           | [Link](https://github.com/benlug/crypto-web-scraper/tree/main)                         | Web scraping, R, Python            |
 
 
