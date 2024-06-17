@@ -2,11 +2,13 @@
 
 Welcome to my project portfolio. Here is a collection of my projects related to data science and data engineering skills with links to each repository.
 
-## R
+## Statistics
 
 | Project Name           | Description                                                                 | Link                                                                                        | Relevant Concepts                        |
 |------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
-| copulaStan             | An R package that provides functions for fitting bivariate Gaussian and Clayton copula models using Stan. | [Link](https://github.com/benlug/copulaStan) | Copulas, Bayesian statistics, Stan, Bivariate analysis |
+| copulaStan             | An R package that provides functions for fitting bivariate Gaussian and Clayton copula models using Stan. | [Link](https://github.com/benlug/copulaStan) | Copulas, Bayesian statistics, R, Stan, Bivariate analysis |
+| Computational Data Analysis               | This repository contains the course materials for a "Computational Data Analysis I" course, tailored for first-year students interested in statistical analysis using R in the social sciences. The course provides an overview of statistical analysis using R, covering data import, management, univariate and bivariate statistics, and regression analysis. | [Link](https://github.com/benlug/computational-data-analysis) | R, Introductory statistics |
+| Multivariate Statistics and Evaluation Using R | This is a repository for a graduate course in the social sciences on Multivariate Statistics and Evaluation using R. This course includes scripts, exercise sheets, sample solutions, and datasets. | [Link](https://github.com/benlug/multivariate-statistics-evaluation) | Multivariate analysis, R, Propensity score methods, Longitudinal analysis |
 
 
 ## SQL
