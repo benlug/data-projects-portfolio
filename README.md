@@ -6,7 +6,7 @@ Welcome to my project portfolio. Here is a collection of my projects related to 
 
 | Project Name           | Description                                                                 | Link                                                                                        | Relevant Concepts                        |
 |------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
-| copulaStan             | A R package that provides functions to fit bivariate Gaussian and Clayton copula models using Stan. | [Link](https://github.com/benlug/copulaStan) | Copula models, Stan, Bivariate analysis |
+| copulaStan             | An R package that provides functions for fitting bivariate Gaussian and Clayton copula models using Stan. | [Link](https://github.com/benlug/copulaStan) | Copula models, Stan, Bivariate analysis |
 
 
 ## SQL
