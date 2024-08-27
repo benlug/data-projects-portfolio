@@ -11,6 +11,12 @@ Welcome to my project portfolio. Here is a collection of my projects related to 
 | Multivariate Statistics and Evaluation Using R | This is a repository for a graduate course in the social sciences on Multivariate Statistics and Evaluation using R. This course includes scripts, exercise sheets, sample solutions, and datasets. | [Link](https://github.com/benlug/multivariate_statistics_and_evaluation) | Multivariate analysis, R, Propensity score methods, Longitudinal analysis |
 
 
+## Machine Learning
+
+| Project Name           | Description                                                                 | Link                                                                                        | Relevant Concepts                        |
+|------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
+| Halloween Candy             | This case study identifies key characteristics that influence product popularity, including chocolate and nut combinations, and provides strategic recommendations for product development and pricing.  | [Link](https://github.com/benlug/case-study-halloween-candy) | Business Analysis, Data Visualization, Machine Learning, R |
+
 ## SQL
 
 | Project Name                          | Description                                                                                                                                                                                                                                                                                                  | Link                                                                                                                           |
