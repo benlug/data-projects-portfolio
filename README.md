@@ -15,7 +15,7 @@ Welcome to my project portfolio. Here is a collection of my projects related to 
 
 | Project Name           | Description                                                                 | Link                                                                                        | Relevant Concepts                        |
 |------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
-| Halloween Candy             | This case study identifies key characteristics that influence product popularity, including chocolate and nut combinations, and provides strategic recommendations for product development and pricing.  | [Link](https://github.com/benlug/case-study-halloween-candy) | Business Analysis, Data Visualization, Machine Learning, R |
+| Halloween Candy             | This case study identifies key characteristics that influence product popularity, including chocolate and nut combinations, and provides strategic recommendations for product development and pricing.  | [Link](https://github.com/benlug/case-study-halloween-candy/blob/main/case_study_halloween_candy.qmd) | Business Analysis, Data Visualization, Machine Learning, R |
 
 ## SQL
 
