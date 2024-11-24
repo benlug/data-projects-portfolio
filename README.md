@@ -15,7 +15,8 @@ Welcome to my project portfolio. Here is a collection of my projects related to 
 
 | Project Name           | Description                                                                 | Link                                                                                        | Relevant Concepts                        |
 |------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
-| Halloween Candy             | This case study identifies key characteristics that influence product popularity, including chocolate and nut combinations, and provides strategic recommendations for product development and pricing.  | [Link](https://github.com/benlug/case-study-halloween-candy/blob/main/case_study_halloween_candy.qmd) | Business Analysis, Data Visualization, Machine Learning, R |
+| Halloween Candy        | This case study identifies key characteristics that influence product popularity, including chocolate and nut combinations, and provides strategic recommendations for product development and pricing.  | [Link](https://github.com/benlug/case-study-halloween-candy/blob/main/case_study_halloween_candy.qmd) | Business Analysis, Data Visualization, Machine Learning, R |
+| ML in Production       | A comprehensive pipeline for building, training, and deploying machine learning models in a production environment. This project includes data preparation, model training with hyperparameter tuning, model evaluation, and model serialization using Python and popular libraries such as scikit-learn, pandas, and SQLAlchemy. | [Link](https://github.com/benlug/ml-prod-app) | Data Preparation, Model Training, Hyperparameter Tuning, Model Evaluation, Model Serialization, Python, scikit-learn, pandas, SQLAlchemy |
 
 ## SQL
 
